@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|c:\\users\\lusni\\desktop\\tp03\\tp03\\tp03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5D0E712C-C6CE-49DE-9AF3-3911471633AE}|TP03\\TP03.csproj|solutionrelative:tp03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "TP03\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\AppShell.xaml.cs*",
+              "RelativeToolTip": "TP03\\AppShell.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:01:17.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "TP03\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MainPage.xaml.cs*",
+              "RelativeToolTip": "TP03\\MainPage.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T06:01:06.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "TP03\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MauiProgram.cs*",
+              "RelativeToolTip": "TP03\\MauiProgram.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:51:17.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MainPage.xaml",
+              "RelativeDocumentMoniker": "TP03\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\MainPage.xaml",
+              "RelativeToolTip": "TP03\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:51:11.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\AppShell.xaml",
+              "RelativeDocumentMoniker": "TP03\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\AppShell.xaml",
+              "RelativeToolTip": "TP03\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:51:09.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\App.xaml",
+              "RelativeDocumentMoniker": "TP03\\App.xaml",
+              "ToolTip": "C:\\Users\\Lusni\\Desktop\\TP03\\TP03\\TP03\\App.xaml",
+              "RelativeToolTip": "TP03\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T05:51:03.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
